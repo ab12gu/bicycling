@@ -45,6 +45,9 @@ White Industries
 - SF-MX30 ($43, 24-07-01)
 - SF-MX30 Single-Speed Freewheel ($44, 24-07-01)
 
+More Options:
+- Alter Pista, Sugino, Miche, Profile Design, and Andel
+
 # License
 No license specified
 - Discussion of what it means here: https://law.stackexchange.com/questions/84720/which-license-can-protect-a-projects-owner-and-give-him-ownership-over-voluntee
